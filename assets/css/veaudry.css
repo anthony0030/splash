@@ -1,0 +1,14 @@
+.veaudry{
+	background-image: url("http://localhost:8888/splash/assets/img/veaudry.png");
+    background-position: center;
+	background-repeat: no-repeat;
+	background-color: white;
+	border: solid white 2px;
+	clear: none;
+}
+
+@media screen and (max-width: 1200px) {
+	.veaudry{
+		clear: both;
+	}
+}

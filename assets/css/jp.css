@@ -1,0 +1,16 @@
+.jp{
+	background-image: url("http://localhost:8888/splash/assets/img/jp.gif");
+    background-position: center;
+	background-repeat: no-repeat;
+	background-color: black;
+	border: solid black 2px;
+	float: right;
+}
+
+@media screen and (max-width: 1200px) {
+	.jp{
+		clear: both;
+		float: none;
+	}
+}
+

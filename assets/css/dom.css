@@ -1,0 +1,23 @@
+.dom{
+	background-image: url("http://localhost:8888/splash/assets/img/dom.jpg");
+    background-position: center;
+	background-repeat: no-repeat;
+	background-color: black;
+	border: solid #C7845A 2px;
+	background-size: 100%;
+	float: left;
+}
+
+.dom.card:hover{
+	width: 336px;
+	height: 200px;
+    background-size: 105%; 
+}
+
+@media screen and (max-width: 1200px) {
+	.dom{
+		clear: both;
+		float: none;
+		margin: 0 auto;
+	}
+}

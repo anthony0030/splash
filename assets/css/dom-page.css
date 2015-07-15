@@ -1,0 +1,34 @@
+.dom{
+	background-image: url("../img/dom.jpg");
+    background-position: center;
+	background-repeat: no-repeat;
+	background-color: black;
+	border: solid #C7845A 2px;
+	background-size: 100%;
+	float: left;
+}
+
+.domgr{
+	background-image: url("../img/dom-gr.jpg");
+	float: right;
+	 background-position: center;
+	background-repeat: no-repeat;
+	background-color: black;
+	border: solid #C7845A 2px;
+	background-size: 100%;
+	float: right;
+}
+
+.card{
+	width: 436px;
+	height: 250px;
+	display: block;
+	margin: 30px 70px auto 70px;
+
+}
+
+.card:hover{
+	width: 469px;
+	height: 253px;
+	background-size: 101%;
+}
