@@ -1,5 +1,5 @@
 .dom{
-	background-image: url("http://localhost:8888/splash/assets/img/dom.jpg");
+	background-image: url("../img/dom.jpg");
     background-position: center;
 	background-repeat: no-repeat;
 	background-color: black;
@@ -11,7 +11,7 @@
 .dom.card:hover{
 	width: 336px;
 	height: 200px;
-    background-size: 105%; 
+    background-size: 105%;
 }
 
 @media screen and (max-width: 1200px) {
